@@ -1,0 +1,4 @@
+OBJECT_BASE 5197363.btg
+OBJECT YPIR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 137.995925 -33.236781 14.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 138.001252 -33.239098 14.5 0.00
